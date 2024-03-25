@@ -3,6 +3,8 @@
 
 <h3 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ndinevski&theme=merko&border_radius=10&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a></h3>
 
+<h2 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif" alt="funny GIF" width="40%"></h2>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikola-dinevski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikola-dinevski" height="30" width="40" /></a>
