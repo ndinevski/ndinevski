@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikola</h1>
-<h3 align="center">A passionate software engineer from Macedonia</h3>
+<h3 align="center">A passionate software engineer from Macedonia <img src="https://images.emojiterra.com/twitter/512px/1f1f2-1f1f0.png" height="15px" alt="" /></h3>
 
 <h3 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ndinevski&theme=merko&border_radius=10&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif" alt="funny GIF" height="196px""></h3>
 
